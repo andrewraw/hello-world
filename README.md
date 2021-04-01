@@ -2,7 +2,7 @@
 Just a repository
 Hi,
 
- All people who look for a desyined place in the exo-care of earth. Dont fight for things, let thing come to you, whatever comes to you.
+ All people who look for a designed place in the exo-care of earth. Dont fight for things, let thing come to you, whatever comes to you.
  # Errors
  
  nitwi@DESKTOP-AKUBDQB MINGW64 /d/Andrew/Android (master)
